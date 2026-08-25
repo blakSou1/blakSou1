@@ -15,7 +15,7 @@
 - 📍 **Location:** _your city_
 - 💼 **Role:** Game / Creative dev
 - 🎯 **Currently:** building pet projects and learning new things
-- 📫 **Contact:** [email](mailto:89872025937kill@gmail.com)
+- 📫 **Contact:** [email](https://mail.google.com/mail/?view=cm&to=89872025937kill@gmail.com)
 - ⚡ **Fact:** my profile is handcrafted 😉
 
 ## 🛠 Stack
@@ -50,7 +50,7 @@ All live demos are collected in the **[musorka](https://github.com/blakSou1/muso
 
 <p>
   <a href="https://github.com/blakSou1"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github"/></a>
-  <a href="mailto:89872025937kill@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="mail"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=89872025937kill@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="mail"/></a>
 </p>
 
 ---
