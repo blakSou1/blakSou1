@@ -46,17 +46,6 @@ All live demos are collected in the **[musorka](https://github.com/blakSou1/muso
 | 🔌 **NAT Punch Test** | WebRTC peer-to-peer test | [open](https://blaksou1.github.io/musorka/nat-punch-test/public/) |
 -->
 
-## 📈 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blakSou1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blakSou1&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
-</p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=blakSou1&theme=tokyonight&no-frame=true"><img src="https://github-profile-trophy.vercel.app/?username=blakSou1&theme=tokyonight&no-frame=true&column=7" alt="trophies"/></a>
-</p>
-
 ## 🔗 Where to find me
 
 <p>
