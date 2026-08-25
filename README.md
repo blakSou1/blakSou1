@@ -10,7 +10,7 @@
 
 ## 🧑 About me
 
-> _Replace this description with your own:_ I'm a developer/creator who enjoys turning ideas into interactive web projects. I love graphics, games and tinkering.
+> _Replace this description with your own:_ I'm a developer/creator who enjoys turning ideas into interactive projects. I love graphics, games and tinkering.
 
 - 📍 **Location:** _your city_
 - 💼 **Role:** Game / Creative dev
