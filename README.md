@@ -6,10 +6,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-2ea043" alt="status"/>
 </p>
 
-<p align="center">
-  <i>I make games, visualizations and all sorts of fun stuff in the browser. Come in, look around, get inspired.</i>
-</p>
-
 ---
 
 ## 🧑 About me
@@ -25,6 +21,9 @@
 ## 🛠 Stack
 
 <p>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="csharp"/>
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" alt="unity"/>
+  <img src="https://img.shields.io/badge/ShaderLab%20%2F%20HLSL-76B900?logo=unity&logoColor=white&style=for-the-badge" alt="shaders"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="js"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css"/>
@@ -62,7 +61,6 @@ All live demos are collected in the **[musorka](https://github.com/blakSou1/muso
 
 <p>
   <a href="https://github.com/blakSou1"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="github"/></a>
-  <a href="your_telegram_link"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="tg"/></a>
   <a href="mailto:89872025937kill@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="mail"/></a>
 </p>
 
