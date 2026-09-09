@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm SoMeshBoy 👋</h1>
+<h1 align="center"> Hi, I'm SoMeshBoy 👋 </h1>
 
 <p align="center">
   <a href="https://github.com/blakSou1"><img src="https://komarev.com/ghpvc/?username=blakSou1&style=flat-square&color=blue" alt="profile views"/></a>
@@ -11,6 +11,8 @@
 ## 🧑 About me
 
 > _Replace this description with your own:_ I'm a developer/creator who enjoys turning ideas into interactive projects. I love graphics, games and tinkering.
+
+[A little about my projects](https://blaksou1.github.io/portfolio/)
 
 - 📍 **Location:** _your city_
 - 💼 **Role:** Game / Creative dev
